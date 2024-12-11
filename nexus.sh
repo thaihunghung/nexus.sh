@@ -108,7 +108,7 @@ else
 fi
 
 # Set the Prover ID directly (no need for user input)
-PROVER_ID="3fOghQk5JzQU4yMfOD7lOOev62v1"
+PROVER_ID="ZJWqG0WvkuWFTG15ojOFpnYqF1k1"
 
 # Write the Prover ID to the ~/.nexus directory
 echo "$PROVER_ID" > ~/.nexus/prover-id
